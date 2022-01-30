@@ -1,5 +1,5 @@
-using Dio.Series;
 using System;
+using Dio.Series;
 
 namespace DIO.Series{
     public class Serie : EntidadeBase{ //Serie vai herdar de EntidadeBase
